@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=originaldcam" alt="originaldcam" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET and Laravel**
+- 🌱 I’m currently learning **FastAPI and React**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **Docker**
 
 
 <h3 align="left">Languages and Tools:</h3>
